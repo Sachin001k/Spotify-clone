@@ -19,11 +19,4 @@ Users can log in with their Spotify account and explore their playlists, top tra
 - **API:** Spotify Web API
 - **Styling:** CSS
 
----
 
-## 📦 Installation
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/spotify-clone.git
-cd spotify-clone
